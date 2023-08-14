@@ -34,7 +34,7 @@ This project aims to answer these questions:
 
 For the code, please check the notebook `Starbucks_Capstone_notebook.ipynb`.
 
-The findings of this project has been published [HERE](https://medium.com/@vietthai2303/unraveling-the-income-question-insights-from-american-census-analysis-872ae24d321d).
+The findings of this project has been published [HERE](https://medium.com/@vietthai2303/explore-the-mysterious-data-in-starbucks-promotional-offers-b9de42ba8497).
 
 ### Acknowledgements <a name="acknowledgements"></a>
 
